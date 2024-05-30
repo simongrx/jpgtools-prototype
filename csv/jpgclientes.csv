@@ -1,0 +1,23 @@
+ID,Nombre,Empresa,Tipo,Sector,Tamaño,Ubicación,Email,Teléfono,Fecha
+1,Juan Perez,Industrias Perez,empresa,Manufactura,mediana,"Bogota, Colombia",juan.perez@example.com,123456789,2024-05-20
+2,Ana Gomez,Gomez & Co.,empresa,Servicios,peque?a,"Medellin, Colombia",ana.gomez@example.com,987654321,2024-05-21
+3,Carlos Martinez,Martinez Industries,empresa,Construcci?n,grande,"Cali, Colombia",carlos.martinez@example.com,321456987,2024-05-22
+4,Laura Ramirez,Ramirez Solutions,empresa,Tecnolog?a,mediana,"Bogota, Colombia",laura.ramirez@example.com,654321789,2024-05-22
+5,Pedro Sanchez,Sanchez Equipments,empresa,Automotriz,peque?a,"Cartagena, Colombia",pedro.sanchez@example.com,789123456,2024-05-23
+6,Maria Fernandez,Personal,persona natural,,,"Barranquilla, Colombia",maria.fernandez@example.com,456789123,2024-05-24
+7,Jorge Gutierrez,Personal,persona natural,,,"Cali, Colombia",jorge.gutierrez@example.com,321654987,2024-05-25
+8,Sofia Lopez,Lopez & Co.,empresa,Agricultura,mediana,"Medellin, Colombia",sofia.lopez@example.com,147258369,2024-05-25
+9,Luis Vargas,Vargas Corporation,empresa,Manufactura,grande,"Bogota, Colombia",luis.vargas@example.com,258369147,2024-05-26
+10,Natalia Jimenez,Jimenez Enterprises,empresa,Servicios,peque?a,"Medellin, Colombia",natalia.jimenez@example.com,369147258,2024-05-27
+11,Andres Gonzalez,Gonzalez SA,empresa,Construcci?n,mediana,"Cartagena, Colombia",andres.gonzalez@example.com,159357486,2024-05-28
+12,Carmen Rodriguez,Personal,persona natural,,,"Bogota, Colombia",carmen.rodriguez@example.com,753951846,2024-05-29
+13,Felipe Torres,Torres Equipments,empresa,Tecnolog?a,grande,"Cali, Colombia",felipe.torres@example.com,951753852,2024-05-30
+14,Andrea Suarez,Suarez & Partners,empresa,Automotriz,mediana,"Barranquilla, Colombia",andrea.suarez@example.com,753159486,2024-06-01
+15,Miguel Castro,Personal,persona natural,,,"Medellin, Colombia",miguel.castro@example.com,852741963,2024-06-02
+16,Claudia Mora,Mora Corp,empresa,Agricultura,peque?a,"Cartagena, Colombia",claudia.mora@example.com,654987321,2024-06-03
+17,Manuel Ortiz,Ortiz Holdings,empresa,Servicios,mediana,"Bogota, Colombia",manuel.ortiz@example.com,789654123,2024-06-04
+18,Patricia Gomez,Personal,persona natural,,,"Cali, Colombia",patricia.gomez@example.com,123789456,2024-06-05
+19,Ricardo Ruiz,Ruiz Equipments,empresa,Manufactura,grande,"Barranquilla, Colombia",ricardo.ruiz@example.com,456123789,2024-06-06
+20,Liliana Diaz,Personal,persona natural,,,"Medellin, Colombia",liliana.diaz@example.com,789456123,2024-06-07
+21,Oscar Blanco,Blanco Industries,empresa,Automotriz,mediana,"Bogota, Colombia",oscar.blanco@example.com,123456789,2024-06-08
+22,Carolina Rojas,Rojas Solutions,empresa,Construcci?n,peque?a,"Cali, Colombia",carolina.rojas@example.com,987654321,2024-06-09

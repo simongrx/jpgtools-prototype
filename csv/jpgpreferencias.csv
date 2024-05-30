@@ -1,0 +1,23 @@
+PreferenciaID,ClienteID,Preferencia,Nivel
+1,1,Preferencia por maquinaria CNC de alta precisi?n,alta
+2,2,Necesidad de fresadoras para peque?os talleres,media
+3,1,Preferencia por maquinaria CNC de alta precisi?n,alta
+4,2,Necesidad de fresadoras para peque?os talleres,media
+5,3,Inter?s en impresoras 3D para prototipos,alta
+6,4,Requiere compresores de aire de alta capacidad,media
+7,5,Busca soldadoras multiproceso para uso intensivo,alta
+8,6,Inter?s en tornos mec?nicos para talleres peque?os,media
+9,7,Necesidad de gr?as para proyectos de construcci?n,alta
+10,8,Inter?s en hornos industriales para tratamiento t?rmico,media
+11,9,Requiere cintas transportadoras para l?neas de producci?n,alta
+12,10,Inter?s en robots industriales para automatizaci?n,alta
+13,11,Busca elevadores hidr?ulicos para talleres automotrices,media
+14,12,Inter?s en tractores agr?colas de alta potencia,alta
+15,13,Necesidad de pulidoras industriales para acabados,media
+16,14,Busca fresadoras horizontales para fabricaci?n,alta
+17,15,Inter?s en generadores el?ctricos industriales,alta
+18,16,Necesidad de bombas de agua de alta capacidad,media
+19,17,Busca tijeras hidr?ulicas para corte de metales,alta
+20,18,Inter?s en mezcladoras industriales para construcci?n,media
+21,19,Necesidad de cortadoras de plasma para cortes precisos,alta
+22,20,Busca prensas hidr?ulicas para trabajos industriales,alta

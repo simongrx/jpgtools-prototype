@@ -1,0 +1,11 @@
+ProductoID,Cantidad,Nombre,Categoria,Descripcion,Precio
+1,2,Torno CNC,Maquinaria,Torno CNC de alta precisi?n para trabajos industriales,25000.0
+4,2,Cortadora L?ser,Maquinaria,Cortadora l?ser para precisi?n en corte de metales,30000.0
+12,1,Robot Industrial,Tecnolog?a,Robot industrial para automatizaci?n de procesos,50000.0
+19,1,Tijera Hidr?ulica,Maquinaria,Tijera hidr?ulica para corte de metales,12000.0
+18,1,Bomba de Agua,Maquinaria,Bomba de agua industrial de alta capacidad,4500.0
+17,1,Generador El?ctrico,Maquinaria,Generador el?ctrico industrial de emergencia,20000.0
+16,1,Fresadora Horizontal,Maquinaria,Fresadora horizontal para talleres de fabricaci?n,17000.0
+15,1,Pulidora,Maquinaria,Pulidora industrial para acabados de precisi?n,3000.0
+14,1,Tractor,Maquinaria,Tractor agr?cola de alta potencia,35000.0
+13,1,Elevador Hidr?ulico,Maquinaria,Elevador hidr?ulico para talleres automotrices,10000.0

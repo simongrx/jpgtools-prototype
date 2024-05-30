@@ -1,0 +1,21 @@
+ClienteID,Contacto,Sector,Empleados,Tamaño,Direccion,Ciudad,Pais,Telefono,Email,es_cliente,probabilidad
+tech solutions,juan perez,tecnologia,10,medio,calle falsa 123,ciudad a,pais x,123-456-7890,contacto@techsolutions.com,0,0.04233429841543074
+industrias avanzadas,maria gomez,manufactura,15,grande,avenida siempre viva 742,ciudad b,pais y,987-654-3210,info@industriasavanzadas.com,0,0.038003154959103
+construcciones modernas,carlos lopez,construccion,8,pequeno,calle 1,ciudad c,pais z,555-1234-5678,ventas@construccionesmodernas.com,0,0.0394980573734964
+agrotech,ana ramirez,agricultura,12,medio,carretera 5,ciudad d,pais x,444-9876-5432,contacto@agrotech.com,0,0.044105044473766584
+servicios financieros globales,jorge martinez,finanzas,20,grande,calle 2,ciudad e,pais y,222-3333-4444,info@serviciosfinancieros.com,0,0.041747045391376754
+muebles y decoracion,laura torres,muebles,5,pequeno,calle 3,ciudad f,pais z,666-7777-8888,ventas@mueblesdecoracion.com,0,0.03905463669444245
+automotriz del norte,roberto hernandez,automotriz,18,grande,avenida 10,ciudad g,pais x,999-0000-1111,contacto@automotriznorte.com,0,0.04140134644576211
+energias renovables,patricia diaz,energia,7,medio,calle 4,ciudad h,pais y,333-4444-5555,info@energiasrenovables.com,0,0.046986704106465535
+distribuciones globales,luis sanchez,distribucion,13,grande,calle 5,ciudad i,pais z,777-8888-9999,ventas@distribucionesglobales.com,0,0.037707986660571326
+tecnologia verde,carmen fernandez,tecnologia,6,pequeno,calle 6,ciudad j,pais x,888-9999-0000,contacto@tecnologiaverde.com,0,0.03775654039573148
+logistica integral,miguel garcia,logistica,11,medio,avenida 20,ciudad k,pais y,444-5555-6666,info@logisticaintegral.com,0,0.04776984225831343
+salud y bienestar,rosa castillo,salud,16,grande,calle 7,ciudad l,pais z,555-6666-7777,ventas@saludybienestar.com,0,0.03689313456159956
+innovaciones industriales,pedro ruiz,manufactura,9,medio,calle 8,ciudad m,pais x,333-2222-1111,contacto@innovacionesindustriales.com,0,0.04568722783777797
+soluciones de transporte,elena martinez,transporte,14,grande,calle 9,ciudad n,pais y,111-2222-3333,info@soluciontransporte.com,0,0.03785457048403285
+consultoria empresarial,julio ortiz,consultoria,4,pequeno,avenida 30,ciudad o,pais z,222-1111-0000,ventas@consultoriaempresarial.com,0,0.041926604813519015
+desarrollos inmobiliarios,clara jimenez,inmobiliario,19,grande,calle 10,ciudad p,pais x,444-7777-8888,contacto@desarrollosinmobiliarios.com,0,0.03861202628602053
+tecnologia medica,sofia sanchez,salud,3,pequeno,calle 11,ciudad q,pais y,666-9999-3333,info@tecnologiamedica.com,0,0.03750657691657943
+automatizacion y control,ramon lopez,automatizacion,17,grande,calle 12,ciudad r,pais z,777-1111-2222,ventas@automatizacioncontrol.com,0,0.03830517407581894
+alimentos y bebidas,monica reyes,alimentos,2,pequeno,avenida 40,ciudad s,pais x,888-2222-4444,contacto@alimentosybebidas.com,0,0.03862969891638296
+seguridad integral,alberto romero,seguridad,21,grande,calle 13,ciudad t,pais y,999-4444-5555,info@seguridadintegral.com,0,0.03892222343577351

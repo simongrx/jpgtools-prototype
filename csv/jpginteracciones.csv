@@ -1,0 +1,23 @@
+InteraccionID,ClienteID,TipoInteraccion,Fecha,Detalle
+1,1,visita web,2024-05-24,Cliente visit? la p?gina web y revis? la secci?n de tornos CNC
+2,2,llamada telefonica,2024-05-25,Cliente llam? para solicitar informaci?n sobre fresadoras
+3,1,visita web,2024-05-24,Cliente visit? la p?gina web y revis? la secci?n de tornos CNC
+4,2,llamada telefonica,2024-05-25,Cliente llam? para solicitar informaci?n sobre fresadoras
+5,3,correo electronico,2024-05-26,Cliente envi? un correo solicitando cotizaci?n de impresoras 3D
+6,4,visita web,2024-05-27,Cliente revis? la secci?n de compresores de aire
+7,5,reunion presencial,2024-05-28,Cliente asisti? a una reuni?n para discutir sobre soldadoras multiproceso
+8,6,visita web,2024-05-29,Cliente revis? la secci?n de tornos mec?nicos
+9,7,llamada telefonica,2024-05-30,Cliente llam? para obtener m?s informaci?n sobre gr?as
+10,8,correo electronico,2024-06-01,Cliente solicit? especificaciones de hornos industriales
+11,9,visita web,2024-06-02,Cliente revis? la secci?n de cintas transportadoras
+12,10,reunion presencial,2024-06-03,Cliente discuti? sobre robots industriales en una reuni?n
+13,11,visita web,2024-06-04,Cliente revis? la secci?n de elevadores hidr?ulicos
+14,12,llamada telefonica,2024-06-05,Cliente solicit? informaci?n sobre tractores agr?colas
+15,13,correo electronico,2024-06-06,Cliente solicit? cotizaci?n de pulidoras industriales
+16,14,visita web,2024-06-07,Cliente revis? la secci?n de fresadoras horizontales
+17,15,reunion presencial,2024-06-08,Cliente asisti? a una reuni?n para discutir sobre generadores el?ctricos
+18,16,visita web,2024-06-09,Cliente revis? la secci?n de bombas de agua
+19,17,llamada telefonica,2024-06-10,Cliente solicit? informaci?n sobre tijeras hidr?ulicas
+20,18,correo electronico,2024-06-11,Cliente solicit? especificaciones de mezcladoras industriales
+21,19,visita web,2024-06-12,Cliente revis? la secci?n de cortadoras de plasma
+22,20,reunion presencial,2024-06-13,Cliente discuti? sobre prensas hidr?ulicas en una reuni?n

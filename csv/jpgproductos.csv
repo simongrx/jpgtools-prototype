@@ -1,0 +1,23 @@
+ProductoID,Nombre,Categoria,Descripcion,Precio
+1,Torno CNC,Maquinaria,Torno CNC de alta precisi?n para trabajos industriales,25000.0
+2,Fresadora,Maquinaria,Fresadora vertical para uso en talleres de fabricaci?n,15000.0
+3,Taladro Industrial,Maquinaria,Taladro de alta potencia para trabajos industriales,5000.0
+4,Cortadora L?ser,Maquinaria,Cortadora l?ser para precisi?n en corte de metales,30000.0
+5,Impresora 3D,Tecnolog?a,Impresora 3D para prototipos y piezas industriales,2000.0
+6,Compresor de Aire,Maquinaria,Compresor de aire industrial de alta capacidad,7000.0
+7,Soldadora,Maquinaria,Soldadora multiproceso para uso industrial,4000.0
+8,Torno Mec?nico,Maquinaria,Torno mec?nico para uso en talleres,8000.0
+9,Gr?a,Maquinaria,Gr?a de construcci?n de alta capacidad,25000.0
+10,Horno Industrial,Maquinaria,Horno industrial para tratamiento t?rmico,15000.0
+11,Cinta Transportadora,Maquinaria,Cinta transportadora para l?neas de producci?n,6000.0
+12,Robot Industrial,Tecnolog?a,Robot industrial para automatizaci?n de procesos,50000.0
+13,Elevador Hidr?ulico,Maquinaria,Elevador hidr?ulico para talleres automotrices,10000.0
+14,Tractor,Maquinaria,Tractor agr?cola de alta potencia,35000.0
+15,Pulidora,Maquinaria,Pulidora industrial para acabados de precisi?n,3000.0
+16,Fresadora Horizontal,Maquinaria,Fresadora horizontal para talleres de fabricaci?n,17000.0
+17,Generador El?ctrico,Maquinaria,Generador el?ctrico industrial de emergencia,20000.0
+18,Bomba de Agua,Maquinaria,Bomba de agua industrial de alta capacidad,4500.0
+19,Tijera Hidr?ulica,Maquinaria,Tijera hidr?ulica para corte de metales,12000.0
+20,Mezcladora,Maquinaria,Mezcladora industrial para materiales de construcci?n,15000.0
+21,Cortadora de Plasma,Maquinaria,Cortadora de plasma para cortes precisos,18000.0
+22,Prensa Hidr?ulica,Maquinaria,Prensa hidr?ulica para trabajos industriales,22000.0
